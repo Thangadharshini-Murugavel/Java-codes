@@ -18,6 +18,8 @@ Display the output as per the given format:
  Price of laptop : 
 Discount : 
 Total Price :
+
+
 12.	A library charges fine for books returned late. To calculate the fine, define a class Library with the following .
 To input the number of days books were returned late.
 To calculate and print the fine based on the following condition:
